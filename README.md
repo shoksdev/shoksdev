@@ -23,6 +23,9 @@ and getting a dopamine release from solving a task I've been working on for a lo
     <a href="mailto:shoksdev@gmail.com" target="_blank">
       <img src="https://static.vecteezy.com/system/resources/thumbnails/022/613/021/small_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="40" height="40" alt="Gmail"/>
     </a>
+    <a href="https://tomsk.hh.ru/applicant/resumes/view?resume=95fe190dff0c1340e00039ed1f506270514131" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40" alt="HH"/>
+    </a>
   </div>
 
 ---
